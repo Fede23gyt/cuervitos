@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 Route::get('profesores/', function () {
     //return view('welcome');
-    return 'Listado de profesores';
+    return 'Listado de profesores vista';
     //return view ('profesores/index');
 });
 
